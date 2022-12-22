@@ -5,6 +5,7 @@ import plotly.express as px
 import pandas as pd
 
 app = dash.Dash(__name__)
+server = app.server
 
 df = pd.read_csv("modules.csv")
 df2 = pd.read_csv("lectures.csv")
