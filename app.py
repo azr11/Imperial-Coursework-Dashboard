@@ -52,7 +52,6 @@ def update_graph(values):
                   hover_data=None)
 
     fig.update_layout(bargap=0.5,bargroupgap=0.1, barmode="group")
-    fig.update_yaxes(autorange="reversed", row=2, col=1)
     return (fig)
 
 
@@ -70,6 +69,7 @@ def update_graph(values):
 
     fig.update_layout(bargap=0.5,bargroupgap=0.1, barmode="group",
     showlegend=False)
+    fig.update_yaxes(autorange="reversed")
     return (fig)
 
 
