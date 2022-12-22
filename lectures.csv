@@ -1,0 +1,110 @@
+﻿Academic Year,Term Number,Year Group,Module Name,Lecturer,Section,Room,Room,Start Week,End Week,Day,Start Time,End Time
+22/23,2,3/4,Fluid Dynamics 2,Mestel,Applied,139,HXLY 139,2,11,Monday,9:00,10:00
+22/23,2,3/4,Finite Elements: Numerical Analysis and Implementation,Cotter+Ham,Applied,139,HXLY 139,2,11,Monday,10:00,11:00
+22/23,2,3/4,Bifurcation Theory,Tuarev,Applied,658,HXLY 658,2,11,Monday,10:00,12:00
+22/23,2,3/4,Vortex Dynamics,Crowdy,Applied,140,HXLY 140,2,11,Monday,12:00,13:00
+22/23,2,3/4,Scientific Computation,Ray,Applied,144,HXLY 144,2,11,Monday,13:00,14:00
+22/23,2,3/4,Geometric Mechanics,Holm,Applied,140,HXLY 140,2,11,Monday,13:00,15:00
+22/23,2,3/4,Mathematical Foundations of Machine Learning,Borovykh,Applied,139,HXLY 139,10,11,Monday,14:00,15:00
+22/23,2,3/4,Advanced Topics in Partial Differential Equations,Giorgini,Applied,139,HXLY 139,2,11,Monday,15:00,16:00
+22/23,2,3/4,Hydrodynamic Stability,Wu,Applied,130,HXLY 130,2,11,Monday,15:00,16:00
+22/23,2,3/4,Methods for Data Science,Bravi,Applied,213 - Clore,HXLY 213 - Clore,2,11,Monday,16:00,18:00
+22/23,2,3/4,Advanced Topics in Partial Differential Equations,Giorgini,Applied,139,HXLY 139,2,11,Tuesday,9:00,10:00
+22/23,2,3/4,Finite Elements: Numerical Analysis and Implementation,Cotter+Ham,Applied,140,HXLY 140,2,11,Tuesday,10:00,11:00
+22/23,2,3/4,Tensor Calculus & General Relativity,Ford,Applied,130,HXLY 130,2,11,Tuesday,10:00,11:00
+22/23,2,3/4,Random Dynamical Systems and Ergodic Theory,Lamb,Applied,642,HXLY 642,2,11,Tuesday,10:00,12:00
+22/23,2,3/4,Scientific Computation,Ray,Applied,130,HXLY 130,2,11,Tuesday,11:00,12:00
+22/23,2,3/4,Fluid Dynamics 2,Mestel,Applied,130,HXLY 130,2,11,Tuesday,12:00,13:00
+22/23,2,3/4,Geometric Mechanics,Holm,Applied,139,HXLY 139,2,11,Tuesday,13:00,14:00
+22/23,2,3/4,Introduction to Stochastic Differential Equations and Diffusion Processes,Pavliotis,Applied,140,HXLY 140,2,11,Tuesday,13:00,15:00
+22/23,2,3/4,Hydrodynamic Stability,Wu,Applied,658,HXLY 658,2,11,Tuesday,14:00,15:00
+22/23,2,3/4,Mathematical Foundations of Machine Learning,Borovykh,Applied,308,HXLY 308,2,11,Tuesday,15:00,17:00
+22/23,2,3/4,Mathematical Foundations of Machine Learning,Borovykh,Applied,308,HXLY 308,10,10,Tuesday,15:00,16:00
+22/23,2,3/4,Mathematical Foundations of Machine Learning,Borovykh,Applied,340,HXLY 340,11,11,Tuesday,15:00,16:00
+22/23,2,3/4,Quantum Mechanics 2,Barnett,Applied,130,HXLY 130,2,11,Tuesday,16:00,17:00
+22/23,2,3/4,Computational Partial Differential Equations,Mughal,Applied,130,HXLY 130,2,11,Tuesday,17:00,18:00
+22/23,2,3/4,Mathematical Foundations of Machine Learning,Borovykh,Applied,144,HXLY 144,2,11,Wednesday,9:00,10:00
+22/23,2,3/4,Introduction to Geophysical Fluid Dynamics,Berloff,Applied,341,HXLY 341,2,11,Wednesday,9:00,12:00
+22/23,2,3/4,Computational Partial Differential Equations,Mughal,Applied,140,HXLY 140,2,11,Wednesday,10:00,11:00
+22/23,2,3/4,Advanced Topics in Partial Differential Equations,Giorgini,Applied,130,HXLY 130,2,11,Wednesday,11:00,12:00
+22/23,2,3/4,Bifurcation Theory,Tuarev,Applied,140,HXLY 140,1,10,Thursday,11:00,12:00
+22/23,2,3/4,Scientific Computation,Ray,Applied,414,HXLY 414,1,10,Thursday,11:00,12:00
+22/23,2,3/4,Tensor Calculus & General Relativity,Ford,Applied,139,HXLY 139,1,10,Thursday,12:00,13:00
+22/23,2,3/4,Random Dynamical Systems and Ergodic Theory,Lamb,Applied,130,HXLY 130,1,1,Thursday,12:00,13:00
+22/23,2,3/4,Random Dynamical Systems and Ergodic Theory,Lamb,Applied,642,HXLY 642,2,10,Thursday,12:00,13:00
+22/23,2,3/4,Fluid Dynamics 2,Mestel,Applied,130,HXLY 130,1,10,Thursday,13:00,14:00
+22/23,2,3/4,Computational Partial Differential Equations,Mughal,Applied,130,HXLY 130,1,10,Thursday,14:00,15:00
+22/23,2,3/4,Finite Elements: Numerical Analysis and Implementation,Cotter+Ham,Applied,410,HXLY 410,2,11,Thursday,15:00,16:00
+22/23,2,3/4,Hydrodynamic Stability,Wu,Applied,140,HXLY 140,1,10,Friday,10:00,11:00
+22/23,2,3/4,Vortex Dynamics,Crowdy,Applied,130,HXLY 130,1,10,Friday,12:00,14:00
+22/23,2,3/4,Finite Elements: Numerical Analysis and Implementation,Cotter+Ham,Applied,410,HXLY 410,2,11,Friday,14:00,15:00
+22/23,2,3/4,Tensor Calculus & General Relativity,Ford,Applied,340,HXLY 340,1,10,Friday,15:00,16:00
+22/23,2,3/4,Introduction to Stochastic Differential Equations and Diffusion Processes,Pavliotis,Applied,140,HXLY 140,1,10,Friday,15:00,16:00
+22/23,2,3/4,Quantum Mechanics 2,Barnett,Applied,140,HXLY 140,1,10,Friday,16:00,18:00
+22/23,2,3/4,Galois Theory,Corti,Pure,311,HXLY 311,2,11,Monday,9:00,10:00
+22/23,2,3/4,Fourier Analysis & the Theory of Distributions,Krasovsky,Pure,140,HXLY 140,2,11,Monday,9:00,12:00
+22/23,2,3/4,Formalising Mathematics,Buzzard,Pure,340,HXLY 340,2,11,Monday,12:00,13:00
+22/23,2,3/4,Differential Topology,Lynch,Pure,139,HXLY 139,2,11,Monday,12:00,13:00
+22/23,2,3/4,Riemannian Geometry,Mendez Guaraco,Pure,139,HXLY 139,2,11,Monday,13:00,14:00
+22/23,2,3/4,Geometry of Curves & Surfaces,Cheraghi,Pure,130,HXLY 130,2,11,Monday,13:00,15:00
+22/23,2,3/4,Group Representation Theory,Schedler,Pure,140,HXLY 140,2,11,Monday,15:00,16:00
+22/23,2,3/4,Algebraic Geometry,Helm,Pure,140,HXLY 140,2,11,Monday,16:00,17:00
+22/23,2,3/4,Complex Manifolds,Matviichuk,Pure,140,HXLY 140,2,11,Monday,17:00,18:00
+22/23,2,3/4,Geometry of Curves & Surfaces,Cheraghi,Pure,140,HXLY 140,2,11,Tuesday,9:00,10:00
+22/23,2,3/4,Algebraic Geometry,Helm,Pure,139,HXLY 139,2,11,Tuesday,10:00,11:00
+22/23,2,3/4,Galois Theory,Corti,Pure,140,HXLY 140,2,11,Tuesday,11:00,12:00
+22/23,2,3/4,Riemannian Geometry,Mendez Guaraco,Pure,139,HXLY 139,2,11,Tuesday,11:00,12:00
+22/23,2,3/4,Stochastic Calculus with Applications to non-linear Filtering,Crisan,Pure,139,HXLY 139,2,11,Tuesday,12:00,13:00
+22/23,2,3/4,Algebraic Topology,Skorobogatov,Pure,140,HXLY 140,2,11,Tuesday,12:00,13:00
+22/23,2,3/4,Complex Manifolds,Matviichuk,Pure,130,HXLY 130,2,11,Tuesday,13:00,14:00
+22/23,2,3/4,Formalising Mathematics,Buzzard,Pure,139,HXLY 139,2,11,Tuesday,14:00,15:00
+22/23,2,3/4,Graph Theory,Zordan,Pure,139,HXLY 139,2,11,Tuesday,15:00,16:00
+22/23,2,3/4,Differential Topology,Lynch,Pure,658,HXLY 658,2,11,Tuesday,16:00,17:00
+22/23,2,3/4,Algebraic Number Theory,Pal,Pure,139,HXLY 139,2,11,Tuesday,16:00,18:00
+22/23,2,3/4,Galois Theory,Corti,Pure,140,HXLY 140,2,11,Wednesday,9:00,10:00
+22/23,2,3/4,Formalising Mathematics,Buzzard,Pure,130,HXLY 130,2,11,Wednesday,10:00,11:00
+22/23,2,3/4,Group Representation Theory,Schedler,Pure,140,HXLY 140,2,11,Wednesday,11:00,12:00
+22/23,2,3/4,Differential Topology,Lynch,Pure,140,HXLY 140,1,10,Thursday,9:00,10:00
+22/23,2,3/4,Algebraic Number Theory,Pal,Pure,139,HXLY 139,1,10,Thursday,9:00,10:00
+22/23,2,3/4,Stochastic Calculus with Applications to non-linear Filtering,Crisan,Pure,140,HXLY 140,1,10,Thursday,10:00,11:00
+22/23,2,3/4,Complex Manifolds,Matviichuk,Pure,139,HXLY 139,1,10,Thursday,10:00,11:00
+22/23,2,3/4,Graph Theory,Zordan,Pure,139,HXLY 139,2,11,Thursday,11:00,12:00
+22/23,2,3/4,Algebraic Topology,Skorobogatov,Pure,140,HXLY 140,1,10,Thursday,12:00,13:00
+22/23,2,3/4,Algebra 4,Feyzbakhsh,Pure,140,HXLY 140,1,10,Thursday,13:00,14:00
+22/23,2,3/4,Probability Theory,Krasovsky,Pure,139,HXLY 139,1,10,Thursday,13:00,16:00
+22/23,2,3/4,Algebraic Geometry,Helm,Pure,140,HXLY 140,1,10,Friday,9:00,10:00
+22/23,2,3/4,Stochastic Calculus with Applications to non-linear Filtering,Crisan,Pure,130,HXLY 130,2,10,Friday,10:00,11:00
+22/23,2,3/4,Stochastic Calculus with Applications to non-linear Filtering,Crisan,Pure,139,HXLY 139,1,1,Friday,10:00,11:00
+22/23,2,3/4,Group Representation Theory,Schedler,Pure,139,HXLY 139,1,1,Friday,11:00,12:00
+22/23,2,3/4,Group Representation Theory,Schedler,Pure,139,HXLY 139,3,10,Friday,11:00,12:00
+22/23,2,3/4,Group Representation Theory,Schedler,Pure,140,HXLY 140,2,2,Friday,11:00,12:00
+22/23,2,3/4,Algebraic Topology,Skorobogatov,Pure,140,HXLY 140,1,1,Friday,11:00,12:00
+22/23,2,3/4,Riemannian Geometry,Mendez Guaraco,Pure,140,HXLY 140,1,10,Friday,12:00,13:00
+22/23,2,3/4,Graph Theory,Zordan,Pure,341,HXLY 341,2,10,Friday,14:00,15:00
+22/23,2,3/4,Graph Theory,Zordan,Pure,144,HXLY 144,11,11,Friday,14:00,15:00
+22/23,2,3/4,Algebraic Topology,Skorobogatov,Pure,341,HXLY 341,2,10,Friday,15:00,16:00
+22/23,2,3/4,Algebra 4,Feyzbakhsh,Pure,340,HXLY 340,1,10,Friday,16:00,18:00
+22/23,2,3/4,Introduction to Statistical Learning,Nason,Statistics/Finance,340,HXLY 340,2,11,Monday,11:00,12:00
+22/23,2,3/4,Mathematical Finance: An Introduction to Option Pricing,Siorpaes,Statistics/Finance,213 - Clore,HXLY 213 - Clore,2,11,Monday,12:00,13:00
+22/23,2,3/4,Bayesian Methods,Mortlock,Statistics/Finance,C660,CHEM C660,10,10,Monday,13:00,15:00
+22/23,2,3/4,Mathematics of Business and Economics,Papatsouma,Statistics/Finance,340,HXLY 340,2,11,Monday,15:00,16:00
+22/23,2,3/4,Statistical Modelling 2,Hallsworth,Statistics/Finance,213 - Clore,HXLY 213 - Clore,2,11,Tuesday,9:00,10:00
+22/23,2,3/4,Survival Models,Gandy,Statistics/Finance,340,HXLY 340,2,11,Tuesday,12:00,13:00
+22/23,2,3/4,Statistical Theory,Ray,Statistics/Finance,213 - Clore,HXLY 213 - Clore,2,11,Tuesday,13:00,14:00
+22/23,2,3/4,Introduction to Statistical Learning,Nason,Statistics/Finance,340,HXLY 340,2,11,Tuesday,16:00,18:00
+22/23,2,3/4,Statistical Theory,Ray,Statistics/Finance,340,HXLY 340,2,11,Wednesday,9:00,10:00
+22/23,2,3/4,Statistical Modelling 2,Hallsworth,Statistics/Finance,340,HXLY 340,2,11,Wednesday,10:00,11:00
+22/23,2,3/4,Mathematics of Business and Economics,Papatsouma,Statistics/Finance,340,HXLY 340,2,11,Wednesday,11:00,12:00
+22/23,2,3/4,Survival Models,Gandy,Statistics/Finance,340,HXLY 340,1,10,Thursday,9:00,10:00
+22/23,2,3/4,Statistical Modelling 2,Hallsworth,Statistics/Finance,213 - Clore,HXLY 213 - Clore,2,11,Thursday,10:00,11:00
+22/23,2,3/4,Machine Learning,Filippi,Statistics/Finance,C661,CHEM C661,2,6,Thursday,11:00,13:00
+22/23,2,3/4,Bayesian Methods,Mortlock,Statistics/Finance,C661,CHEM C661,7,9,Thursday,11:00,13:00
+22/23,2,3/4,Bayesian Methods,Mortlock,Statistics/Finance,C661,CHEM C661,11,11,Thursday,11:00,13:00
+22/23,2,3/4,Mathematics of Business and Economics,Papatsouma,Statistics/Finance,213 - Clore,HXLY 213 - Clore,1,10,Friday,9:00,10:00
+22/23,2,3/4,Statistical Theory,Ray,Statistics/Finance,340,HXLY 340,1,10,Friday,10:00,11:00
+22/23,2,3/4,Nonparametric Statistics,Ray,Statistics/Finance,308,HXLY 308,2,2,Friday,11:00,13:00
+22/23,2,3/4,Nonparametric Statistics,Ray,Statistics/Finance,341,HXLY 341,3,6,Friday,11:00,13:00
+22/23,2,3/4,Multivariate Analysis,Syulski,Statistics/Finance,139,HXLY 139,11,11,Friday,11:00,13:00
+22/23,2,3/4,Multivariate Analysis,Syulski,Statistics/Finance,341,HXLY 341,7,10,Friday,11:00,13:00
+22/23,2,3/4,Mathematical Finance: An Introduction to Option Pricing,Siorpaes,Statistics/Finance,213 - Clore,HXLY 213 - Clore,1,10,Friday,12:00,14:00
+22/23,2,3/4,Survival Models,Gandy,Statistics/Finance,340,HXLY 340,1,10,Friday,14:00,15:00
